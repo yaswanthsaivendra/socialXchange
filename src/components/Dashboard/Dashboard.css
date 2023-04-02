@@ -1,0 +1,36 @@
+.top-dashboard{
+    display: flex;
+    justify-content: space-around;
+}
+.profile-details{
+    background-color: var(--secondary);
+    min-width:300px;
+    min-height: 300px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.profile-container{
+    width: 110px;
+    height: 110px;
+    object-fit: cover;
+    border-radius: 100%;
+}
+.right{
+    width: 250px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content:center;
+    border-right: 1px solid var(--border);
+    
+}
+.left{
+    width: 500px;
+}
+.badge{
+    width:400px;
+}
+.mycredits{
+    width: 210px;
+    height: 180px;
+}

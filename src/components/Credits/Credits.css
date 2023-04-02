@@ -1,0 +1,12 @@
+.credits-page .card{
+    background-color: transparent;
+    width: 300px;
+    border:2px solid var(--primary);
+    /* background-color: var(--border); */
+}
+.credits-page{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}

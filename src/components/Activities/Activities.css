@@ -1,0 +1,12 @@
+.activity-card{
+    width: 100%;
+}
+.top{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.activities .imageContainer{
+    /* border: 1px solid red; */
+    height: 600px;
+}

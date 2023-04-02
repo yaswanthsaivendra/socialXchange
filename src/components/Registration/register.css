@@ -1,0 +1,22 @@
+.registerContainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 94vh;
+}
+.role-card{
+    height: 400px;
+    width: 300px;
+    cursor: pointer;
+}
+.role-card:hover{
+    border: 2px solid var(--primary);
+}
+.role-image{
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+    object-fit: cover;
+    /* border: 1px solid red; */
+}
